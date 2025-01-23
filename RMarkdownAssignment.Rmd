@@ -1,6 +1,6 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+author: "Justin Perez"
 date: "Data 2401"
 output: html_document
 ---
@@ -34,4 +34,40 @@ Reminder: We learned how to do these things in class today, but there is a "Mark
 Note that you can click "Knit" as you go along to see what the final results are going to look like. The knitting will produce an html file, which you will also need to stage/commit/push once it exists! 
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
+
+# Your work here
+
+## Wise words
+
+
+>Don't take yourself too seriously.
+
+[More info...](https://www.thegoodtrade.com/features/taking-yourself-too-seriously/)
+
+
+## My semester
+
+|Course number|Course title|Instructor name|
+|:------------|:-----------|:--------------|
+|2401|Data Science 1|Shoemaker|
+
+## I recommend
+
+### Nathaniel Hawthorne
+
+>AFTER the kings of Great Britain had assumed the right of appointing the colonial governors, the >measures of the latter seldom met with the ready and generous approbation which had been paid to >those of their predecessors, under the original charters.
+
+
+- Twice-Told Tales (1837)
+- Legends of the Province House (1838–1839)
+- Grandfather's Chair (1840)
+- Mosses from an Old Manse (1846)
+- A Wonder-Book for Girls and Boys (1851)
+- The Snow-Image, and Other Twice-Told Tales (1852)
+- Tanglewood Tales (1853)
+- The Dolliver Romance and Other Pieces (1876)
+- The Great Stone Face and Other Tales of the White Mountains (1889)
+
+
+
  
